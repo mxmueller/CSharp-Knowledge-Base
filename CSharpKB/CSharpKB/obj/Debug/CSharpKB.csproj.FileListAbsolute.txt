@@ -1,0 +1,8 @@
+C:\Git\CSharp-Knowledge-Base\CSharpKB\CSharpKB\obj\Debug\CSharpKB.csproj.AssemblyReference.cache
+C:\Git\CSharp-Knowledge-Base\CSharpKB\CSharpKB\obj\Debug\CSharpKB.csproj.SuggestedBindingRedirects.cache
+C:\Git\CSharp-Knowledge-Base\CSharpKB\CSharpKB\obj\Debug\CSharpKB.csproj.CoreCompileInputs.cache
+C:\Git\CSharp-Knowledge-Base\CSharpKB\CSharpKB\bin\Debug\CSharpKB.exe.config
+C:\Git\CSharp-Knowledge-Base\CSharpKB\CSharpKB\bin\Debug\CSharpKB.exe
+C:\Git\CSharp-Knowledge-Base\CSharpKB\CSharpKB\bin\Debug\CSharpKB.pdb
+C:\Git\CSharp-Knowledge-Base\CSharpKB\CSharpKB\obj\Debug\CSharpKB.exe
+C:\Git\CSharp-Knowledge-Base\CSharpKB\CSharpKB\obj\Debug\CSharpKB.pdb
