@@ -43,10 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arrays.cs" />
+    <Compile Include="Enums.cs" />
+    <Compile Include="Ueberladen.cs" />
+    <Compile Include="Polymorphismus.cs" />
+    <Compile Include="Mehrfachvererbung.cs" />
+    <Compile Include="Interfaces.cs" />
+    <Compile Include="Klassen.cs" />
     <Compile Include="Eingaben.cs" />
     <Compile Include="Funktionen.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vererbung.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

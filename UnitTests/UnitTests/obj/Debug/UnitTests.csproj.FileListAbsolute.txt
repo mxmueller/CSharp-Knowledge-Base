@@ -1,0 +1,8 @@
+C:\Git\CSharp-Knowledge-Base\UnitTests\UnitTests\bin\Debug\UnitTests.exe.config
+C:\Git\CSharp-Knowledge-Base\UnitTests\UnitTests\bin\Debug\UnitTests.exe
+C:\Git\CSharp-Knowledge-Base\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
+C:\Git\CSharp-Knowledge-Base\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.AssemblyReference.cache
+C:\Git\CSharp-Knowledge-Base\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.SuggestedBindingRedirects.cache
+C:\Git\CSharp-Knowledge-Base\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Git\CSharp-Knowledge-Base\UnitTests\UnitTests\obj\Debug\UnitTests.exe
+C:\Git\CSharp-Knowledge-Base\UnitTests\UnitTests\obj\Debug\UnitTests.pdb

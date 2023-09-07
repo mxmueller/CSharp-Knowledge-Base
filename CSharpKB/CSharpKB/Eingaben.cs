@@ -14,9 +14,9 @@ namespace CSharpKB
             Console.WriteLine("---");
             Console.WriteLine(input);
 
-            Console.Write("Bitte Benutzername eingeben: ");
-            string username = Console.ReadLine();
-            Console.WriteLine("Hallo " + username);
+            Console.Write("Bitte Alter eingeben: ");
+            int alter = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("du bist " + alter);
         }
     }
 }
