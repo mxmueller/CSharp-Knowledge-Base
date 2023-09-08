@@ -1,0 +1,8 @@
+C:\Git\CSharp-Knowledge-Base\Events\Events\bin\Debug\Events.exe.config
+C:\Git\CSharp-Knowledge-Base\Events\Events\bin\Debug\Events.exe
+C:\Git\CSharp-Knowledge-Base\Events\Events\bin\Debug\Events.pdb
+C:\Git\CSharp-Knowledge-Base\Events\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\Git\CSharp-Knowledge-Base\Events\Events\obj\Debug\Events.csproj.SuggestedBindingRedirects.cache
+C:\Git\CSharp-Knowledge-Base\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Git\CSharp-Knowledge-Base\Events\Events\obj\Debug\Events.exe
+C:\Git\CSharp-Knowledge-Base\Events\Events\obj\Debug\Events.pdb

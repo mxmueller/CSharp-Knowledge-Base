@@ -1,0 +1,8 @@
+C:\Git\CSharp-Knowledge-Base\Exeptions\Exeptions\bin\Debug\Exeptions.exe.config
+C:\Git\CSharp-Knowledge-Base\Exeptions\Exeptions\bin\Debug\Exeptions.exe
+C:\Git\CSharp-Knowledge-Base\Exeptions\Exeptions\bin\Debug\Exeptions.pdb
+C:\Git\CSharp-Knowledge-Base\Exeptions\Exeptions\obj\Debug\Exeptions.csproj.AssemblyReference.cache
+C:\Git\CSharp-Knowledge-Base\Exeptions\Exeptions\obj\Debug\Exeptions.csproj.SuggestedBindingRedirects.cache
+C:\Git\CSharp-Knowledge-Base\Exeptions\Exeptions\obj\Debug\Exeptions.csproj.CoreCompileInputs.cache
+C:\Git\CSharp-Knowledge-Base\Exeptions\Exeptions\obj\Debug\Exeptions.exe
+C:\Git\CSharp-Knowledge-Base\Exeptions\Exeptions\obj\Debug\Exeptions.pdb
