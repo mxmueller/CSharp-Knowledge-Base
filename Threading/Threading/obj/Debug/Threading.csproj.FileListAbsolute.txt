@@ -1,0 +1,8 @@
+C:\Git\CSharp-Knowledge-Base\Threading\Threading\bin\Debug\Threading.exe.config
+C:\Git\CSharp-Knowledge-Base\Threading\Threading\bin\Debug\Threading.exe
+C:\Git\CSharp-Knowledge-Base\Threading\Threading\bin\Debug\Threading.pdb
+C:\Git\CSharp-Knowledge-Base\Threading\Threading\obj\Debug\Threading.csproj.AssemblyReference.cache
+C:\Git\CSharp-Knowledge-Base\Threading\Threading\obj\Debug\Threading.csproj.SuggestedBindingRedirects.cache
+C:\Git\CSharp-Knowledge-Base\Threading\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+C:\Git\CSharp-Knowledge-Base\Threading\Threading\obj\Debug\Threading.exe
+C:\Git\CSharp-Knowledge-Base\Threading\Threading\obj\Debug\Threading.pdb

@@ -1,0 +1,8 @@
+C:\Git\CSharp-Knowledge-Base\Indexer\Indexer\bin\Debug\Indexer.exe.config
+C:\Git\CSharp-Knowledge-Base\Indexer\Indexer\bin\Debug\Indexer.exe
+C:\Git\CSharp-Knowledge-Base\Indexer\Indexer\bin\Debug\Indexer.pdb
+C:\Git\CSharp-Knowledge-Base\Indexer\Indexer\obj\Debug\Indexer.csproj.AssemblyReference.cache
+C:\Git\CSharp-Knowledge-Base\Indexer\Indexer\obj\Debug\Indexer.csproj.SuggestedBindingRedirects.cache
+C:\Git\CSharp-Knowledge-Base\Indexer\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\Git\CSharp-Knowledge-Base\Indexer\Indexer\obj\Debug\Indexer.exe
+C:\Git\CSharp-Knowledge-Base\Indexer\Indexer\obj\Debug\Indexer.pdb

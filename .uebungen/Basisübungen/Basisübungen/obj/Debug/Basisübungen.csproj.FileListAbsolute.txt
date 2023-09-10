@@ -1,0 +1,8 @@
+C:\Git\CSharp-Knowledge-Base\.uebungen\Basisübungen\Basisübungen\bin\Debug\Basisübungen.exe.config
+C:\Git\CSharp-Knowledge-Base\.uebungen\Basisübungen\Basisübungen\bin\Debug\Basisübungen.exe
+C:\Git\CSharp-Knowledge-Base\.uebungen\Basisübungen\Basisübungen\bin\Debug\Basisübungen.pdb
+C:\Git\CSharp-Knowledge-Base\.uebungen\Basisübungen\Basisübungen\obj\Debug\Basisübungen.csproj.AssemblyReference.cache
+C:\Git\CSharp-Knowledge-Base\.uebungen\Basisübungen\Basisübungen\obj\Debug\Basisübungen.csproj.SuggestedBindingRedirects.cache
+C:\Git\CSharp-Knowledge-Base\.uebungen\Basisübungen\Basisübungen\obj\Debug\Basisübungen.csproj.CoreCompileInputs.cache
+C:\Git\CSharp-Knowledge-Base\.uebungen\Basisübungen\Basisübungen\obj\Debug\Basisübungen.exe
+C:\Git\CSharp-Knowledge-Base\.uebungen\Basisübungen\Basisübungen\obj\Debug\Basisübungen.pdb

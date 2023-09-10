@@ -1,0 +1,8 @@
+C:\Git\CSharp-Knowledge-Base\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Git\CSharp-Knowledge-Base\Collections\Collections\bin\Debug\Collections.exe
+C:\Git\CSharp-Knowledge-Base\Collections\Collections\bin\Debug\Collections.pdb
+C:\Git\CSharp-Knowledge-Base\Collections\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Git\CSharp-Knowledge-Base\Collections\Collections\obj\Debug\Collections.csproj.SuggestedBindingRedirects.cache
+C:\Git\CSharp-Knowledge-Base\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Git\CSharp-Knowledge-Base\Collections\Collections\obj\Debug\Collections.exe
+C:\Git\CSharp-Knowledge-Base\Collections\Collections\obj\Debug\Collections.pdb
